@@ -1,12 +1,22 @@
 {
   "name": "started_heroku",
   "version": "1.0.0",
-  "description": "",
+  "description": "getting started with heroku",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
+  "engines": {
+    "node": "18.17.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zahidalidev/started_heroku"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {

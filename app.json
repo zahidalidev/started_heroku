@@ -1,0 +1,9 @@
+{
+  "name": "started_heroku",
+  "description": "getting started with heroku",
+  "repository": "https://github.com/zahidalidev/started_heroku",
+  "keywords": [
+    "node",
+    "express"
+  ]
+}
